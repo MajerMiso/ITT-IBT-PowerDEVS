@@ -26,3 +26,11 @@
 - Možnosť tmavej témy
 - V Petriho sieťach zobrazovať počet tokenov v elemente "Place". Do určitého počtu zorazovať bodky, ďalej čísla
 - Zobrazovanie hodnoty prechodu v Petriho sieťach
+
+
+### __In+spirácia__
+- Pomenovanie portov - [Eclipse 4diac](https://eclipse.dev/4diac/)
+- Panel nástrojov - [Blender](https://www.blender.org/)
+- Panel nástrojov (alternatíva) - [ROHM Solution Simulator Toolbar](https://techweb.rohm.com/know-how/simulation/12294/)
+- UI dizajn - [Visual Studio Code](hhttps://code.visualstudio.com/)
+- Komponenty - vlastný dizajn/TBD

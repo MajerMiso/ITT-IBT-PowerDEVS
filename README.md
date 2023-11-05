@@ -4,8 +4,8 @@
 Obsahom tejto bakalárskej práce je analýza nedostatkov a súhrn navrhovaných riešení a zmien.
 
 TODO
-- Návrh nového používateľského prostredia vo Figme.
-- Implementácia navrhnutéo používateľského prostredia
+- Návrh nového používateľského prostredia vo Figme
+- Implementácia navrhnutého používateľského prostredia
 
 
 ### __Analýza__

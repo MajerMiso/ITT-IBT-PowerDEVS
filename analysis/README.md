@@ -28,7 +28,7 @@
 - Zobrazovanie hodnoty prechodu v Petriho sieťach
 
 
-### __In+spirácia__
+### __Inšpirácia__
 - Pomenovanie portov - [Eclipse 4diac](https://eclipse.dev/4diac/)
 - Panel nástrojov - [Blender](https://www.blender.org/)
 - Panel nástrojov (alternatíva) - [ROHM Solution Simulator Toolbar](https://techweb.rohm.com/know-how/simulation/12294/)
